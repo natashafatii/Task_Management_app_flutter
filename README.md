@@ -20,7 +20,7 @@ This project demonstrates **Firebase integration, state management with Provider
 ---
 
 ## 📂 Folder Structure
-'''
+```
 lib/
 ├── constants/ # App constants
 │ ├── app_colors.dart
@@ -92,7 +92,7 @@ lib/
 │
 ├── firebase_options.dart # Firebase config (generated)
 └── main.dart # Application entry point
-'''
+```
 ---
 
 ## 🛠️ Tech Stack
